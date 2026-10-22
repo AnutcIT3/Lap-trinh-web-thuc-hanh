@@ -1,0 +1,41 @@
+﻿<div class="bg-dark text-white p-3 min-vh-100" style="width: 220px;">
+    <!-- CORE Section -->
+    <div class="text-uppercase text-muted small fw-bold mb-2">CORE</div>
+    <ul class="nav flex-column mb-4">
+        <li class="nav-item mb-1">
+            <a class="nav-link text-white-50 d-flex align-items-center gap-2" asp-controller="Home" asp-action="Index">
+                <i class="bi bi-speedometer2"></i>
+                <span>Dashboard</span>
+            </a>
+        </li>
+    </ul>
+
+    <!-- ADDONS Section -->
+    <div class="text-uppercase text-muted small fw-bold mb-2">ADDONS</div>
+    <ul class="nav flex-column d-flex gap-3">
+        <li class="nav-item mb-1">
+            <a class="nav-link text-white-50 d-flex align-items-center gap-2" asp-controller="Branch" asp-action="Index">
+                <i class="bi bi-diagram-3"></i>
+                <span>Branches</span>
+            </a>
+        </li>
+        <li class="nav-item mb-1">
+            <a class="nav-link text-white-50 d-flex align-items-center gap-2" asp-controller="Student" asp-action="Index">
+                <i class="bi bi-people"></i>
+                <span>Students</span>
+            </a>
+        </li>
+        <li class="nav-item mb-1">
+            <a class="nav-link text-white-50 d-flex align-items-center gap-2" asp-controller="Subject" asp-action="Index">
+                <i class="bi bi-journal-bookmark"></i>
+                <span>Subjects</span>
+            </a>
+        </li>
+        <li class="nav-item mb-1">
+            <a class="nav-link text-white-50 d-flex align-items-center gap-2" asp-controller="Course" asp-action="Index">
+                <i class="bi bi-book"></i>
+                <span>Courses</span>
+            </a>
+        </li>
+    </ul>
+</div>

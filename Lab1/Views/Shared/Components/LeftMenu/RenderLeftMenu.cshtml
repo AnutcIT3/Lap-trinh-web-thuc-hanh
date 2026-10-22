@@ -1,0 +1,24 @@
+﻿@model IEnumerable<MenuItem>
+<div class="bg-dark text-white p-4 min-vh-100" style="width: 240px;">
+    <!-- CORE Section -->
+    <div class="text-uppercase text-muted small fw-bold mb-4">CORE</div>
+    <ul class="nav flex-column mb-4 d-flex gap-3">
+        <li class="nav-item mb-1">
+            <a class="nav-link text-white-50 d-flex align-items-center gap-2" asp-controller="Home" asp-action="Index">
+                <i class="bi bi-speedometer2"></i>
+                <span>Dashboard</span>
+            </a>
+        </li>
+    </ul>
+
+    <!-- ADDONS Section -->
+    <div class="text-uppercase text-muted small fw-bold mb-2">ADDONS</div>
+    <ul class="nav flex-column gap-3">
+    @foreach (var s in Model)
+    {
+        <a class="nav-link dropdown-toggle px-3 text-secondary" href="#" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <i class="bi bi-grid me-1"></i> @s.Name
+        </a>
+    }
+    </ul>
+</div>
