@@ -3,24 +3,111 @@
   "WorkspaceRootPath": "E:\\C#Learning\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\viewcomponents\\leftmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\viewcomponents\\leftmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Temp\\18536eb4-0560-48e0-818c-c9aca6e9cf76_HoTen_MaSV.zip.f76\\HoTen_MaSV\\SinhVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\shared\\components\\leftmenu\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\shared\\components\\leftmenu\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\shared\\_leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\shared\\_leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|e:\\c#learning\\lab1\\lab1\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +117,341 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Lab1\\Models\\Student.cs",
-              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Student.cs",
-              "RelativeToolTip": "Lab1\\Models\\Student.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBoAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\LearnerController.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T07:40:06.771Z",
+              "WhenOpened": "2026-11-05T03:14:02.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1\\Program.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Program.cs",
+              "RelativeToolTip": "Lab1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T02:54:49.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "Lab1\\Views\\Student\\Create.cshtml",
               "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "Lab1\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAD8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-10T06:27:37.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "StudentController.cs",
               "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Lab1\\Controllers\\StudentController.cs",
               "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Lab1\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwD4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T06:20:49.717Z"
+              "WhenOpened": "2026-10-10T06:20:49.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Lab1\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Lab1\\Controllers\\HomeController.cs",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Student.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Student.cs",
+              "RelativeToolTip": "Lab1\\Models\\Student.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T07:40:06.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T03:24:12.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T03:07:35.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Lab1\\Data\\DbInitializer.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Lab1\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T02:50:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Lab1\\Data\\SchoolContext.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "Lab1\\Data\\SchoolContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T06:20:48.373Z"
+              "WhenOpened": "2026-11-05T02:46:48.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T07:11:01.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Lab1\\Views\\Student\\Index.cshtml",
               "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "Lab1\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-08T03:49:41.263Z"
+              "WhenOpened": "2026-10-29T03:07:12.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-22T02:49:48.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Major.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Major.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Major.cs",
+              "RelativeToolTip": "Lab1\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T04:00:36.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TopNav.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\TopNav.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\TopNav.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\TopNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T06:53:32.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeftMenuViewComponent.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\ViewComponents\\LeftMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "Lab1\\Views\\ViewComponents\\LeftMenuViewComponent.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\ViewComponents\\LeftMenuViewComponent.cs",
+              "RelativeToolTip": "Lab1\\Views\\ViewComponents\\LeftMenuViewComponent.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T04:07:36.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T06:59:06.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T06:59:07.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "E:\\Temp\\18536eb4-0560-48e0-818c-c9aca6e9cf76_HoTen_MaSV.zip.f76\\HoTen_MaSV\\SinhVien.cs",
+              "RelativeDocumentMoniker": "..\\..\\Temp\\18536eb4-0560-48e0-818c-c9aca6e9cf76_HoTen_MaSV.zip.f76\\HoTen_MaSV\\SinhVien.cs",
+              "ToolTip": "E:\\Temp\\18536eb4-0560-48e0-818c-c9aca6e9cf76_HoTen_MaSV.zip.f76\\HoTen_MaSV\\SinhVien.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\Temp\\18536eb4-0560-48e0-818c-c9aca6e9cf76_HoTen_MaSV.zip.f76\\HoTen_MaSV\\SinhVien.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T06:58:48.508Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T03:23:02.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Course.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Course.cs",
+              "RelativeToolTip": "Lab1\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T04:14:58.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RenderLeftMenu.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\Components\\LeftMenu\\RenderLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\Components\\LeftMenu\\RenderLeftMenu.cshtml",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\Components\\LeftMenu\\RenderLeftMenu.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\Components\\LeftMenu\\RenderLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T03:07:25.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LeftMenu.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\_LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\_LeftMenu.cshtml",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\_LeftMenu.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\_LeftMenu.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T03:07:28.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Gender.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Gender.cs",
+              "RelativeToolTip": "Lab1\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T03:45:48.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Branch.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Branch.cs",
+              "RelativeToolTip": "Lab1\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T03:45:52.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\Index.cshtml",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Views\\Shared\\Index.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T03:02:12.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Enrollment.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Lab1\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T04:15:41.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Learner.cs",
+              "ToolTip": "E:\\C#Learning\\Lab1\\Lab1\\Models\\Learner.cs",
+              "RelativeToolTip": "Lab1\\Models\\Learner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T04:03:24.69Z"
             }
           ]
         }

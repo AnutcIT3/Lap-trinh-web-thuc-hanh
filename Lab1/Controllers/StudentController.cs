@@ -46,11 +46,26 @@ namespace Lab1.Controllers
 
         [HttpPost]
         [Route("Admin/Student/Add")]
-        public IActionResult Create(Student student)
+        public IActionResult Create(Student s)
         {
-            student.Id = listStudents.Last<Student>().Id + 1;
-            listStudents.Add(student);
-            return View("Index", listStudents);
+            if (ModelState.IsValid)
+            {
+                s.Id = listStudents.Last<Student>().Id + 1;
+                listStudents.Add(s);
+                return View("Index", listStudents);
+            }
+            ViewBag.AllGenders = Enum.GetValues(typeof(Gender)).Cast<Gender>().ToList();
+            ViewBag.AllBranches = new List<SelectListItem>()
+            {
+                new SelectListItem {Text = "IT",Value = "1"},
+                new SelectListItem {Text = "BE",Value="2"},
+                new SelectListItem {Text = "CE",Value="3"},
+                new SelectListItem {Text = "EE",Value="4"},
+
+            };
+            return View();
+
+
         }
     }
 }

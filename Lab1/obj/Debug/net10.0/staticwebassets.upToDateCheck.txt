@@ -1,7 +1,5 @@
 wwwroot\css\site.css
-wwwroot\css\style.css
 wwwroot\favicon.ico
-wwwroot\js\script.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -63,6 +61,8 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\js\script.js
+wwwroot\css\style.css
 E:\C#Learning\Lab1\Lab1\wwwroot\css\site.css
 E:\C#Learning\Lab1\Lab1\wwwroot\favicon.ico
 E:\C#Learning\Lab1\Lab1\wwwroot\js\site.js
