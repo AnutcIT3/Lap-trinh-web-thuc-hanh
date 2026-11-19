@@ -3,6 +3,7 @@ using Lab1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Cryptography;
 
 namespace Lab1.Controllers
 {
@@ -136,10 +137,21 @@ namespace Lab1.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int? mid)
         {
-            var learners = db.Learners.Include(m => m.Major).ToList();
-            return View(learners);
+            if (mid == null)
+            {
+                var learners = db.Learners
+                    .Include(m => m.Major).ToList();
+                return View(learners);
+            }
+            else
+            {
+                var learners = db.Learners
+                    .Where(l => l.MajorID == mid)
+                    .Include(m => m.Major).ToList();
+                return View(learners);
+            }
         }
     }
 }
